@@ -1,0 +1,42 @@
+h1 {
+    color: #5A0001;
+}
+
+h2{color: gold;}
+
+h3{color: FAB2EA;}
+
+h4{color: royalblue;}
+
+body {
+    background-color: heart.jpg
+}
+
+h4 {
+    font size: 1em;
+}
+
+ul {
+    list-style: none;
+    color: #F26419;
+    padding: 0;
+    text-align: justify;
+}
+
+
+#profile-pic {
+    border-radius: 10%;
+}
+
+#left-col {
+    width: 20em;
+    height: 100vh;
+    background-color: #000000;
+    text-align: center;
+}
+
+#right-col {
+    width: em;
+    margin-left: 400;
+}
+
